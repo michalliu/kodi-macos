@@ -428,6 +428,10 @@ msgctxt "#31392"
 msgid "Arial based"
 msgstr "基于 Arial 字体"
 
+msgctxt "#31393"
+msgid "YaHei Monaco"
+msgstr "雅黑"
+
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]设置用户界面[/B][CR][CR]变换皮肤 · 设置语言和区域 · 修改文件列表选项 · 设置屏幕保护"

@@ -510,6 +510,10 @@ msgctxt "#31392"
 msgid "Arial based"
 msgstr ""
 
+msgctxt "#31393"
+msgid "YaHei Monaco"
+msgstr ""
+
 #empty strings from id 31393 to 31399
 #Description Labels
 
